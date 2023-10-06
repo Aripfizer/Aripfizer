@@ -2,8 +2,14 @@
 
 ### Salut 👋
 
-Je suis un développeur full stack qui cherche à résoudre les problèmes du monde réel. J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible. 
-Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à m'appeler [@emichel_dev](https://twitter.com/emichel_dev/) ou à me donner un peu de ♥ sur [mail](mailto:emicheldev@gmail.com). N'hésitez pas à me contacter au cas où vous voudriez également me joindre.
+Moi c'est **Ariel**, un développeur full stack passionné par la résolution de problèmes du monde réel. Mon voyage dans le monde de la programmation a été une aventure excitante où j'ai acquis une multitude de compétences et d'expériences.
+
+🧠 J'ai une soif insatiable d'apprentissage, et j'aime explorer de nouvelles technologies et concepts pour repousser les limites de ce qui est possible. Ma philosophie est que le savoir n'a de valeur que s'il est partagé. C'est pourquoi je m'efforce de partager mes connaissances avec la communauté, aussi publiquement que possible.
+
+📬 N'hésitez pas à me contacter si vous souhaitez discuter de projets, d'idées ou simplement pour échanger des idées. Je suis ouvert à de nouvelles opportunités et toujours prêt à collaborer pour créer un impact positif.
+
+*  **Email** : [envoyer un mail](mailto:arieldossou00@gmail.com)
+*  **WhatsApp** : [Joindre sur whatsapp](https://wa.link/1j8gf1)
 
 
 ### Hi there 👋
