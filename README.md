@@ -8,7 +8,7 @@ I'm **Ariel**, a full stack developer passionate about solving real-world proble
 
 📬 Feel free to reach out if you'd like to discuss projects, ideas or simply exchange thoughts. I'm open to new opportunities and always ready to collaborate to create positive impact.
 
-*  **Email** : [send me mail](mailto:arieldossou00@gmail.com)
+*  **Email** : [send me mail](mailto:ariel.dossou@outlook.fr)
 *  **WhatsApp** : [Join me on whatsapp](https://wa.link/1j8gf1)
 
 # 💫 About Me:
